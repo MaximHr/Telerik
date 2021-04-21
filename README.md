@@ -1,1 +1,1 @@
-"# Telerik" 
+## Telerik
