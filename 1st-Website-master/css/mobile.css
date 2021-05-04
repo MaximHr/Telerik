@@ -1,0 +1,40 @@
+.navbar h2{
+    float: none;
+    text-align: center;
+}
+.navbar li,
+.navbar ul{
+    float: none;
+}
+.navbar ul li a{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+    border-bottom: 1px #444 dotted;
+}
+.history{
+    display: none;
+}
+.content{
+    float: none;
+    width: 100%;
+}
+.box{
+    float: none;
+    width: 100%;
+}
+.info-left,
+.info-right{
+    float: none;
+    width: 100%;
+}
+.info-right img{
+    display: none;
+}
+.info-left p, 
+.info-left h1{
+    text-align: center; 
+}
+#contact-info .box{
+    border-bottom: 1px #444 dotted;
+}
