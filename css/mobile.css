@@ -38,3 +38,17 @@
 #contact-info .box{
     border-bottom: 1px #444 dotted;
 }
+.box:first-child {
+    margin-top: 2rem;
+}
+.showcase {
+    height: 100vh;
+    padding: 10px 10px;
+    text-align: center;
+}
+.content {
+    height: 500px;
+}
+.box:first-child { 
+    padding-top: 7rem;
+}
