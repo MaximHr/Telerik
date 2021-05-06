@@ -304,11 +304,11 @@ h1.gosho {
     font-size: 60px;
     margin: 3rem 0;
 }
-.gallery div:nth-child(1)::before { content: 'Pesho'; }
-.gallery div:nth-child(2)::before { content: 'Gosho'; }
-.gallery div:nth-child(3)::before { content: 'Tosho'; }
-.gallery div:nth-child(4)::before { content: 'Ivan'; }
-.gallery div:nth-child(5)::before { content: 'Sasho'; }
-.gallery div:nth-child(6)::before { content: 'Vesko'; }
-.gallery div:nth-child(7)::before { content: 'Grisho'; }
-.gallery div:nth-child(8)::before { content: 'Ogy sexa'; }
+.gallery div:nth-child(1)::before { content: 'Макс'; }
+.gallery div:nth-child(2)::before { content: 'Ангел'; }
+.gallery div:nth-child(3)::before { content: 'Калоян'; }
+.gallery div:nth-child(4)::before { content: 'Станислав'; }
+.gallery div:nth-child(5)::before { content: 'Рагнар'; }
+.gallery div:nth-child(6)::before { content: 'Бакстър'; }
+.gallery div:nth-child(7)::before { content: 'Оливър'; }
+.gallery div:nth-child(8)::before { content: 'Рекс'; }
