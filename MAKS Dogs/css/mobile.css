@@ -52,3 +52,6 @@
 .box:first-child { 
     padding-top: 7rem;
 }
+.gallery {
+    grid-template-columns: 1fr 1fr;
+}
