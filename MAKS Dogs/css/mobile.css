@@ -60,5 +60,5 @@
 }
 .gallery {
     grid-template-columns: 1fr;
-    margin:500;
+    margin-left: 60px;
 }
