@@ -23,7 +23,7 @@ const createAlert = (text, color) => {
 submit.addEventListener('click', e => {
     e.preventDefault();
     if(name.value.replaceAll(' ', '') === '' || email.value.replaceAll(' ', '') === '' || message.value.replaceAll(' ', '') === '' ){ 
-        createAlert('Попълни Всичко', 'red')
+        createAlert('Моля попълнете всичко', 'red')
     } else {
         createAlert('Съобщението е изпратено', 'green');
     }
